@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Content on m0on@localhost blog</title>
+    <link>http://m0on.xyz/</link>
+    <description>Recent content in Content on m0on@localhost blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2021 Max Stanford-Taylor</copyright>
+    <lastBuildDate>Sun, 15 Aug 2021 14:40:28 +0100</lastBuildDate><atom:link href="http://m0on.xyz/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

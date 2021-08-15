@@ -1,7 +1,6 @@
 ---
 title: "Content"
 date: 2021-08-15T14:40:28+01:00
-draft: false
 ---
 # Hi there
 

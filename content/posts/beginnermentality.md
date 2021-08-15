@@ -1,7 +1,6 @@
 ---
 title: "Why the beginner mentalilty is bad"
 date: 2021-08-15T15:08:02+01:00
-draft: true
 ---
 When entering a new subject area, inevitably one starts out as a beginner. There is a lot of content on the internet aimed at the beginner so you are probably asking now 'how can being a beginner be bad?', well the issue is not being a beginner in and of itself. It is more that people tend to self label as a beginner, seeking out content that is aimed at them specifically. Id like to propose that this is overall detrimental to ones learning and I'll explain why. 
 

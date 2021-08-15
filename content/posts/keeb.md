@@ -1,7 +1,6 @@
 ---
 title: "A super tiny, practical and cheap keyboard build"
 date: 2021-08-15T14:54:56+01:00
-draft: true
 ---
 For a long while now I've been interested in mechanical keyboards. But for the most part I hadn't had the money to take part, boards tended to be expensive and as an unemployed student I needed to find something on the cheap. My first stop was a cheap ten keyless board from Amazon. It had some form of nockoff cherry blues. It was a good daily driver for the rather lengthy time I was using it but i decided it was time for change. As I was looking around through many sources for mechanical keyboards (/r/mk and /g/mgk) I came across the olkb planck. The planck is a special looking keyboard, its described as a 40% ortholinear board. 
 
