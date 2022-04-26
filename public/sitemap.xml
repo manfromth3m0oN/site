@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://m0on.xyz/posts/</loc>
+    <loc>https://m0on.xyz/post/</loc>
     <lastmod>2021-08-15T15:08:02+01:00</lastmod>
   </url><url>
-    <loc>http://m0on.xyz/posts/beginnermentality/</loc>
+    <loc>https://m0on.xyz/p/why-the-beginner-mentalilty-is-bad/</loc>
     <lastmod>2021-08-15T15:08:02+01:00</lastmod>
   </url><url>
-    <loc>http://m0on.xyz/posts/keeb/</loc>
+    <loc>https://m0on.xyz/p/a-super-tiny-practical-and-cheap-keyboard-build/</loc>
     <lastmod>2021-08-15T14:54:56+01:00</lastmod>
   </url><url>
-    <loc>http://m0on.xyz/</loc>
+    <loc>https://m0on.xyz/</loc>
     <lastmod>2021-08-15T14:40:28+01:00</lastmod>
   </url><url>
-    <loc>http://m0on.xyz/categories/</loc>
+    <loc>https://m0on.xyz/categories/</loc>
   </url><url>
-    <loc>http://m0on.xyz/tags/</loc>
+    <loc>https://m0on.xyz/tags/</loc>
   </url>
 </urlset>

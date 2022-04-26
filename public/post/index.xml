@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Content on Max&#39;s Blog</title>
-        <link>https://m0on.xyz/</link>
-        <description>Recent content in Content on Max&#39;s Blog</description>
+        <title>Posts on Max&#39;s Blog</title>
+        <link>https://m0on.xyz/post/</link>
+        <description>Recent content in Posts on Max&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 15 Aug 2021 14:40:28 +0100</lastBuildDate><atom:link href="https://m0on.xyz/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 15 Aug 2021 15:08:02 +0100</lastBuildDate><atom:link href="https://m0on.xyz/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Why the beginner mentalilty is bad</title>
         <link>https://m0on.xyz/p/why-the-beginner-mentalilty-is-bad/</link>
         <pubDate>Sun, 15 Aug 2021 15:08:02 +0100</pubDate>
