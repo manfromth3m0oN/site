@@ -1,10 +1,8 @@
 ---
-title: "Content"
+title: "About Me"
 date: 2021-08-15T14:40:28+01:00
 ---
-# Hi there
-
-I'm Max, a software engineering appretice from the South East of England.
+Hi there I'm Max, a software engineering apprentice from the South East of England.
 
 This blog will serve as a platform to document my journey into:
 
@@ -14,4 +12,4 @@ This blog will serve as a platform to document my journey into:
 * FPV
 * general life ramblings.
 
-Feel free to take a poke arround and get in touch if you have any queries.
+Feel free to take a poke around and get in touch if you have any queries.
