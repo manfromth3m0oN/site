@@ -1,4 +1,4 @@
-baseURL = 'http://m0on.xyz/'
+baseURL = 'http://m0on.dev/'
 languageCode = 'en-us'
 title = "Max 'm0on' Stanford-Taylor"
 theme = 'smol'
@@ -11,7 +11,7 @@ DefaultContentLanguage = "en"
 ignoreErrors = ["error-remote-getjson"]
 # sectionPagesMenu = "main"
 [params]
-subtitle = "19 y/o software engineer, FPV pilot and occational musician"
+subtitle = "20 y/o software engineer, FPV pilot and occational musician"
 dateFmt = "02.01.2006 15:04"
 
 # Header
