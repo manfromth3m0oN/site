@@ -1,0 +1,60 @@
+body {
+  height: 100%;
+  margin: 0;
+  background-color: #0a090a;
+}
+.outer {
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  height: 100dvh;
+  width: 100%;
+  align-items: center;
+  flex-direction: column;
+  position: relative;
+}
+.links a {
+  color: rgba(255, 255, 255, 0.31);
+  font-size: 2vh;
+  font-family: "Space Mono";
+}
+.links a:visted {
+  color: rgba(255, 255, 255, 0.31);
+}
+em .links a:active {
+  color: #ccc;
+}
+.links a:hover {
+  color: #aaa;
+  cursor: pointer;
+  text-decoration: underline;
+}
+svg {
+  user-select: none;
+  border-radius: 10000px;
+}
+.overlay {
+  display: flex;
+  position: fixed;
+  z-index: 1;
+  background-color: #0a090a;
+  height: 100dvh;
+  width: 100vw;
+  animation: fadeInAnimation ease 1s;
+  animation-delay: 0.1s;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
+}
+
+@keyframes fadeInAnimation {
+  0% {
+    opacity: 1;
+  }
+  80% {
+    pointer-events: none;
+  }
+  100% {
+    opacity: 0;
+    display: none;
+  }
+}
