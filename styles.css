@@ -15,6 +15,29 @@ body {
   position: relative;
 }
 
+.header {
+  margin-top: 2vh;
+  text-align: center;
+}
+
+.content h1 {
+  text-align: center;
+}
+
+.body * {
+  margin-top: 5vh;
+  margin-left: 25%;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 100%;
+  font-family: "Space Mono";
+  color: rgba(255, 255, 255, 0.5);
+}
+
 .links a {
   color: rgba(255, 255, 255, 0.31);
   font-size: 2vh;

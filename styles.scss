@@ -3,6 +3,7 @@ body {
   margin: 0;
   background-color: #0a090a;
 }
+
 .outer {
   display: flex;
   justify-content: center;
@@ -13,26 +14,55 @@ body {
   flex-direction: column;
   position: relative;
 }
+
+.header {
+  margin-top: 2vh;
+  text-align: center;
+}
+
+.content h1 {
+  text-align: center;
+}
+
+.body * {
+  margin-top: 5vh;
+  margin-left: 25%;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 100%;
+  font-family: "Space Mono";
+  color: rgba(255, 255, 255, 0.5);
+}
+
 .links a {
   color: rgba(255, 255, 255, 0.31);
   font-size: 2vh;
   font-family: "Space Mono";
 }
+
 .links a:visted {
   color: rgba(255, 255, 255, 0.31);
 }
+
 em .links a:active {
   color: #ccc;
 }
+
 .links a:hover {
   color: #aaa;
   cursor: pointer;
   text-decoration: underline;
 }
+
 svg {
   user-select: none;
   border-radius: 10000px;
 }
+
 .overlay {
   display: flex;
   position: fixed;
@@ -50,9 +80,11 @@ svg {
   0% {
     opacity: 1;
   }
+
   80% {
     pointer-events: none;
   }
+
   100% {
     opacity: 0;
     display: none;
