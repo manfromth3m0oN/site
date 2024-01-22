@@ -24,10 +24,15 @@ body {
   text-align: center;
 }
 
-.body * {
+.body {
   margin-top: 5vh;
   margin-left: 15%;
   margin-right: 15%;
+}
+
+p img {
+  max-width: 75%;
+  margin: 5vh auto;
 }
 
 .content {
