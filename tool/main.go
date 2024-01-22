@@ -30,7 +30,7 @@ func main() {
 		os.Exit(1)
 	}
 
-	template, err := getTemplate(mdDir + templateName)
+	template, err := getTemplate(templateName)
 	if err != nil {
 		slog.Error("failed to get tempalte", slog.Any("err", err))
 		os.Exit(1)
@@ -59,13 +59,13 @@ func main() {
 }
 
 type Post struct {
-	Body  string
+	Body  template.HTML
 	Title string
 }
 
 func templatePost(t []byte, title string, post []byte) ([]byte, error) {
 	var p Post
-	p.Body = string(markdown.ToHTML(post, nil, nil))
+	p.Body = template.HTML(markdown.ToHTML(post, nil, nil))
 	p.Title = title
 
 	temp, err := template.New("post").Parse(string(t))
@@ -99,8 +99,9 @@ func getMarkdown(basePath string) (map[string][]byte, error) {
 
 	out := make(map[string][]byte)
 	for _, file := range files {
-		slog.Info("f", slog.Any("filename", file.Name()))
-		fileContent, err := os.ReadFile(file.Name())
+		path := fmt.Sprintf("%s/%s", mdDir, file.Name())
+		slog.Info("opening md file", slog.Any("filename", file.Name()), slog.Any("path", path))
+		fileContent, err := os.ReadFile(path)
 		if err != nil {
 			return nil, err
 		}
