@@ -20,7 +20,7 @@ body {
   text-align: center;
 }
 
-.content h1 {
+.body h1 {
   text-align: center;
 }
 
@@ -28,20 +28,17 @@ body {
   margin-top: 5vh;
   margin-left: 15%;
   margin-right: 15%;
+  // flex-direction: column;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  font-family: "Space Mono";
+  color: rgba(255, 255, 255, 0.5);
 }
 
 p img {
   max-width: 75%;
   margin: 5vh auto;
-}
-
-.content {
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
-  width: 100%;
-  font-family: "Space Mono";
-  color: rgba(255, 255, 255, 0.5);
 }
 
 .links a {
