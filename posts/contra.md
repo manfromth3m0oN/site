@@ -6,31 +6,30 @@ For a long while now I've been interested in mechanical keyboards. But for the m
 
 Here are some of the most common layouts just so you can see the comparative size of the planck:
 
-- Ten keyless
-
 ![/images/tkl.png](/images/tkl.png)
+> Ten keyless
 
-- 65%
 
 ![/images/65.png](/images/65.png)
+> 65%
 
-- 40% - the size of the planck
 
 ![images/40.png](/images/40.png)
+> 40% - the size of the planck
 
-- 30%
 
 ![images/30.png](/images/30.png)
+> 30%
 
 The next of the two criteria that needs describing is what ortholinear means. So forgive me while we do some etymology. 'ortho' is a prefix meaning straight, right or proper derived from the Greek word orthós. Linear is a Latin derived word which in this case relates to a relationship to lines. Looking at the difference between a staggered layout this will probably become more apparent
 
-This is a staggered 40% layout:
 
 ![images/40%201.png](/images/40%201.png)
+> This is a staggered 40% layout:
 
-Whereas this is an ortho 40% layout:
 
 ![images/planck.png](/images/planck.png)
+>  Whereas this is an ortho 40% layout:
 
 As you can see an ortho layout sets all the keys in a grid kind of like an ice cube tray
 
